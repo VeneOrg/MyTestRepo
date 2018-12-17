@@ -1,0 +1,10 @@
+com\example\datasource_model\InMemoryRepository.class
+com\example\PresentationResource\CarResourceAssembler.class
+com\example\PresentationResource\ResourceAssembler.class
+com\example\Controller\CarController.class
+com\example\DemoJavaApplication.class
+com\example\datasource_model\CarRepository.class
+com\example\datasource_model\IdGenerator.class
+com\example\PresentationResource\CarResource.class
+com\example\domain_model\Car.class
+com\example\domain_model\Identifiable.class
